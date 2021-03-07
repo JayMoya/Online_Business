@@ -1,0 +1,20 @@
+$$ General\ Linear\ Equation\ Form \\
+  Monthly = 2300 \hat{x} + 5000\hat{y} \ Vector\ Form \\
+  Monthly = \begin{bmatrix} 2300 \ 5000\end{bmatrix} $$
+  <br>
+
+$$
+   General\ Linear\ Equation\ Form \\
+   week 1 = 100 \hat{x} - 90 \hat{y} \\
+   week 2 = 150 \hat{x} -80  \hat{y} \\
+   week 3 = 200 \hat{x} -50 \hat{y} \\
+   week 4 = 3
+   00 \hat{x} - 10 \hat{y} \\ $$ 
+
+   <br>
+
+  $$ Vector Form \\
+  Week 1 = \begin{bmatrix} -4000 \ 200\end{bmatrix}\\
+  Week 2  = \begin{bmatrix} 1000 \ 500\end{bmatrix}\\
+  Week 3 = \begin{bmatrix} 3000 \ 600\end{bmatrix}\\
+  Week 4 = \begin{bmatrix} 5000 \ 1000\end{bmatrix} $$
